@@ -26,3 +26,4 @@
 #import <TBCCore/TBCTimeInterval.h>
 #import <TBCCore/TBCTimer.h>
 #import <TBCCore/TBCTypeSafety.h>
+#import <UIKit/UIKit.h>
