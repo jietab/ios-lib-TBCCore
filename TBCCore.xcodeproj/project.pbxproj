@@ -129,7 +129,6 @@
 		CB3548912230C77000F8DDD2 /* TBCTimeInterval.h in Headers */ = {isa = PBXBuildFile; fileRef = A377E0D61992529D007F2F47 /* TBCTimeInterval.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB3548922230C77000F8DDD2 /* TBCTimer.h in Headers */ = {isa = PBXBuildFile; fileRef = A30AF172199B195400E2E356 /* TBCTimer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB3548932230C77000F8DDD2 /* TBCTypeSafety.h in Headers */ = {isa = PBXBuildFile; fileRef = A377E0CE19925129007F2F47 /* TBCTypeSafety.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CB8D77962230AA3800AFA9B3 /* TBCCore.h in Headers */ = {isa = PBXBuildFile; fileRef = A3084F741987E2EB00C30AFA /* TBCCore.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB8D77982230AAFB00AFA9B3 /* TBCTypeSafety.m in Sources */ = {isa = PBXBuildFile; fileRef = A377E0CF19925129007F2F47 /* TBCTypeSafety.m */; };
 		CB8D77992230AB7A00AFA9B3 /* TBCCoreTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = FDA926861ADE177F00C1BEE0 /* TBCCoreTypes.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CB8D779A2230AB9400AFA9B3 /* TBCTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = A30AF173199B195400E2E356 /* TBCTimer.m */; };
@@ -602,7 +601,6 @@
 				CB35486A2230C77000F8DDD2 /* NSMutableDictionary+TBCCore.h in Headers */,
 				CB3548912230C77000F8DDD2 /* TBCTimeInterval.h in Headers */,
 				CB3548832230C77000F8DDD2 /* TBCMonetaryValue.h in Headers */,
-				CB8D77962230AA3800AFA9B3 /* TBCCore.h in Headers */,
 				CB35486C2230C77000F8DDD2 /* NSMapTable+TBCCore.h in Headers */,
 				CB35486E2230C77000F8DDD2 /* NSSet+TBCCore.h in Headers */,
 				CB35488F2230C77000F8DDD2 /* TBCPredicateBlock.h in Headers */,
